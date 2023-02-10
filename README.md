@@ -3,9 +3,8 @@
 ## About
 
 This project was a university team project, completed in collaboration with Raoul Shikora. 
-We wrote a compiler from "mini-C" to assembly, the specification which was provided by the university) can be found in 
+We wrote a compiler from "mini-C" to assembly, the specification (which was provided by the university) can be found in 
 `docs/specification.md`.
-The project was completed in collaboration with Raoul Shikora
 
 ## Prerequisites
 
